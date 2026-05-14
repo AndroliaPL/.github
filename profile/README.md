@@ -10,9 +10,9 @@ This project was originally started in 2019 and is now developed by [yokii](http
 
 ---
 ## ~ Link
-» [Website](https://androlia.fr) » [Instagram](https://instagram.com/@androliamc)
-» [Discord](https://dsc.gg/androlia) » [TikTok](https://tiktok.com/@androlia)
-» [Email](mailto:contact@androlia.com) » [YouTube](https://youtube.com/@androliamc)
+- [Website](https://androlia.fr) | [Instagram](https://instagram.com/@androliamc)
+- [Discord](https://dsc.gg/androlia) | [TikTok](https://tiktok.com/@androlia)
+- [Email](mailto:contact@androlia.com) | [YouTube](https://youtube.com/@androliamc)
 
 ---
 
