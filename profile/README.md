@@ -1,4 +1,4 @@
-# ~ 🌊 Androlia
+# ![Androlia](title.png) 🌊
 
 Androlia is a Minecraft **OneBlock server**.
 
@@ -24,7 +24,6 @@ This repository contains:
 ---
 
 Some plugins will NOT be open-source for security reasons.
-
 
 ---
 
