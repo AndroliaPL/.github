@@ -1,4 +1,4 @@
-# ![Androlia](title.png) 🌊
+# ![Androlia](title.png)
 
 Androlia is a Minecraft **OneBlock server**.
 
