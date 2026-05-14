@@ -6,7 +6,7 @@ Androlia is a Minecraft **OneBlock server**.
 
 ## ~ About
 
-This project was originally started in 2019 and is now developed by yokii (https://github.com/yokiidev) and mushurelie (https://github.com/mushurelie).
+This project was originally started in 2019 and is now developed [yokii](https://github.com/yokiidev) and [mushurelie](https://github.com/mushurelie).
 
 ---
 
